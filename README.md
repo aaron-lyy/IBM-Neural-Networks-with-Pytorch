@@ -29,3 +29,6 @@ Initialization Methods: Xavier, He initialization, etc. methods.
 
 Contributions are welcome! Please fork the repository, create a new branch, make your changes, and open a pull request.
 
+## Contact
+
+For any suggestions, please contact me at [aaron.lyy@outlook.com](mailto:aaron.lyy@outlook.com).
